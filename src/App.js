@@ -7,21 +7,6 @@ import pu from './img/pu.png';
 function App() {
   return (
     <div className="container-fluid App">
-      {/* <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-
-      </header> */}
 
       <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
    
@@ -47,9 +32,9 @@ function App() {
       </nav>
       <br />
       <div className="container-fluid" id="home">
-        <div className="row" style={{ backgroundColor: "#00bfff" }}>
+        <div className="row " style={{ backgroundColor: "#00bfff" }}>
           <div className="col-md-6">
-            <img src={profilepic} width="300" height="300" alt="Prerna Sharan" className="img-fluid bio-image" />
+            <img src={profilepic} width="350" height="300" alt="Prerna Sharan" className="img-fluid bio-image" />
           </div>
           <div className="col-md-6">
             <h2 style={{ color: "white", paddingTop: "100px" }}>PRERNA SHARAN</h2>
@@ -57,7 +42,7 @@ function App() {
             <h5 style={{ color: "white", padding: "5px" }}>Zensar Technologies, Pune, INDIA</h5>
             <h6 style={{ color: "white", padding: "5px" }}>Contact Detail: 2020mt93094@wilp.bits.pilani.ac.in</h6>
             {/* <h5 style={{color:"white", padding:"5px"}}>2020mt93094@wilp.bits.pilani.ac.in</h5> */}
-            <a style={{ color: "white" }} href="https://github.com/prerna2909/prerna2909.github.io" className="btn btn-github"><i style={{ fontSize: "24px" }} className="fa">&#xf09b;</i> GitHub Link</a>
+            <a style={{ color: "white" }} href="https://github.com/prerna2909/prerna-profile" className="btn btn-github"><i style={{ fontSize: "24px" }} className="fa">&#xf09b;</i> GitHub Link</a>
           </div>
         </div>
       </div>

@@ -1,6 +1,7 @@
 {
-  "name": "gitprofile",
   "homepage": "https://prerna2909/github.io/prerna",
+  "name": "gitprofile",
+ 
   "version": "0.1.0",
   "private": true,
   "dependencies": {

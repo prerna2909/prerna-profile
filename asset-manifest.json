@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/prerna2909/prerna.github.io/static/css/main.ee6460e6.chunk.css",
-    "main.js": "/prerna2909/prerna.github.io/static/js/main.85336f29.chunk.js",
-    "main.js.map": "/prerna2909/prerna.github.io/static/js/main.85336f29.chunk.js.map",
-    "runtime-main.js": "/prerna2909/prerna.github.io/static/js/runtime-main.a906d63f.js",
-    "runtime-main.js.map": "/prerna2909/prerna.github.io/static/js/runtime-main.a906d63f.js.map",
-    "static/js/2.38738449.chunk.js": "/prerna2909/prerna.github.io/static/js/2.38738449.chunk.js",
-    "static/js/2.38738449.chunk.js.map": "/prerna2909/prerna.github.io/static/js/2.38738449.chunk.js.map",
-    "static/js/3.13b48c98.chunk.js": "/prerna2909/prerna.github.io/static/js/3.13b48c98.chunk.js",
-    "static/js/3.13b48c98.chunk.js.map": "/prerna2909/prerna.github.io/static/js/3.13b48c98.chunk.js.map",
-    "index.html": "/prerna2909/prerna.github.io/index.html",
-    "static/css/main.ee6460e6.chunk.css.map": "/prerna2909/prerna.github.io/static/css/main.ee6460e6.chunk.css.map",
-    "static/js/2.38738449.chunk.js.LICENSE.txt": "/prerna2909/prerna.github.io/static/js/2.38738449.chunk.js.LICENSE.txt",
-    "static/media/cbse.629f4645.jpg": "/prerna2909/prerna.github.io/static/media/cbse.629f4645.jpg",
-    "static/media/prerna.732ef8b8.jpg": "/prerna2909/prerna.github.io/static/media/prerna.732ef8b8.jpg"
+    "main.css": "/prerna2909/github.io/static/css/main.ee6460e6.chunk.css",
+    "main.js": "/prerna2909/github.io/static/js/main.85336f29.chunk.js",
+    "main.js.map": "/prerna2909/github.io/static/js/main.85336f29.chunk.js.map",
+    "runtime-main.js": "/prerna2909/github.io/static/js/runtime-main.c8e96172.js",
+    "runtime-main.js.map": "/prerna2909/github.io/static/js/runtime-main.c8e96172.js.map",
+    "static/js/2.38738449.chunk.js": "/prerna2909/github.io/static/js/2.38738449.chunk.js",
+    "static/js/2.38738449.chunk.js.map": "/prerna2909/github.io/static/js/2.38738449.chunk.js.map",
+    "static/js/3.13b48c98.chunk.js": "/prerna2909/github.io/static/js/3.13b48c98.chunk.js",
+    "static/js/3.13b48c98.chunk.js.map": "/prerna2909/github.io/static/js/3.13b48c98.chunk.js.map",
+    "index.html": "/prerna2909/github.io/index.html",
+    "static/css/main.ee6460e6.chunk.css.map": "/prerna2909/github.io/static/css/main.ee6460e6.chunk.css.map",
+    "static/js/2.38738449.chunk.js.LICENSE.txt": "/prerna2909/github.io/static/js/2.38738449.chunk.js.LICENSE.txt",
+    "static/media/cbse.629f4645.jpg": "/prerna2909/github.io/static/media/cbse.629f4645.jpg",
+    "static/media/prerna.732ef8b8.jpg": "/prerna2909/github.io/static/media/prerna.732ef8b8.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a906d63f.js",
+    "static/js/runtime-main.c8e96172.js",
     "static/js/2.38738449.chunk.js",
     "static/css/main.ee6460e6.chunk.css",
     "static/js/main.85336f29.chunk.js"
